@@ -1,0 +1,37 @@
+# Copyright (C) 2015 foobar
+# This file is distributed under the same license as the foobar package.
+msgid ""
+msgstr ""
+"Project-Id-Version: foobar 1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/foobar\n"
+"POT-Creation-Date: 2015-05-11 15:04:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"Language: bb_BB\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+#. Plugin Name of the plugin/theme
+msgid "foobar"
+msgstr "fbooar"
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://www.oik-plugins.com/oik-plugins/foobar-least-amazing-plugin-world"
+msgstr ""
+"http://www.oik-plugins.com/oik-plugins/foobar-least-amazing-plugin-world"
+
+#. Description of the plugin/theme
+msgid "sample plugin - foo() calls bar()"
+msgstr "spalme plguin - fOO() cllas bAr()"
+
+#. Author of the plugin/theme
+msgid "bobbingwide"
+msgstr "bwibibgdone"
+
+#. Author URI of the plugin/theme
+msgid "http://www.oik-plugins.com/author/bobbingwide"
+msgstr "http://www.oik-plugins.com/author/bobbingwide"
+
