@@ -1,11 +1,11 @@
 <?php
 /**
 Plugin Name: foobar
-Plugin URI: http://www.oik-plugins.com/oik-plugins/foobar-least-amazing-plugin-world
+Plugin URI: https://www.oik-plugins.com/oik-plugins/foobar-least-amazing-plugin-world
 Description: sample plugin - foo() calls bar()
-Version: 1.2
+Version: 1.2.1
 Author: bobbingwide
-Author URI: http://www.oik-plugins.com/author/bobbingwide
+Author URI: https://www.oik-plugins.com/author/bobbingwide
 Text Domain: foobar
 Domain Path: /languages/
 License: GPL2
